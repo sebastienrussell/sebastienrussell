@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Sébastien and I'm a native mobile developer on Android for the moment.
+
 <!--
 **sebastienrussell/sebastienrussell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
